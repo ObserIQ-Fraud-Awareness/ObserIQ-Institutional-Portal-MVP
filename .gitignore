@@ -141,3 +141,9 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Backend files : Python cache/db
+Backend/__pycache__/
+Backend/**/__pycache__/
+Backend/instance/
+Backend/.venv/
